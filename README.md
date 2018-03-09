@@ -1,3 +1,3 @@
 # hello-world
-Testing out GitHub for the first time.
+Just playing with mighty Git !
 Hi my name is gorda_bro.
